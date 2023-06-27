@@ -40,28 +40,22 @@ The Sales Forecasting Application is designed to help businesses make informed d
 - **Machine Learning Libraries:** Python libraries such as scikit-learn or TensorFlow are utilized for implementing machine learning models to forecast sales.
 ## Get Started
 
-To get started with the Sales Forecasting Application, follow the instructions provided in the [README](link-to-readme-file) file of this repository. It includes details on setting up the development environment, installing dependencies, and running the application locally.
+To get started with the Sales Forecasting Application, go to this  https://github.com/Abinaya-26tech/salesang.git file of this repository. It includes details on setting up the development environment, installing dependencies, and running the application locally.
 
-- [Project 2](link-to-project-2): Brief description or tagline for the project.
-- [Project 3](link-to-project-3): Brief description or tagline for the project.
+
 
 Feel free to explore my repositories to discover more projects I've been working on.
 
-## Open Source Contributions
+## Courses and accomplishments
 
-I actively contribute to open-source projects. Some notable contributions include:
+I've been working on various coursework and assignments related to my studies.
+I have been completed my NPTEL course on python.
 
-- [Contribution 1](link-to-contribution-1): Description or context of the contribution.
-- [Contribution 2](link-to-contribution-2): Description or context of the contribution.
-- [Contribution 3](link-to-contribution-3): Description or context of the contribution.
 
-## Blog
-
-I occasionally write about my experiences and insights on my [personal blog](link-to-your-blog). Check it out for more in-depth articles on various topics.
 
 ## Get in Touch
 
-I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me via [email](your-email@example.com) or connect with me on [LinkedIn](link-to-your-linkedin-profile).
+I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me via [email](abinaya.gece2020@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abinaya-ganesan-3340a4246).
 
 Looking forward to connecting with you!
 
