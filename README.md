@@ -42,6 +42,19 @@ The Sales Forecasting Application is designed to help businesses make informed d
 ## Get Started
 
 To get started with the Sales Forecasting Application, go to this  https://github.com/Abinaya-26tech/salesang.git file of this repository. It includes details on setting up the development environment, installing dependencies, and running the application locally.
+- [ Project 2 ] Smart plant monitoring system
+  ## Overview
+
+The Smart Plant Monitoring System is designed to monitor various environmental parameters of a plant, such as soil moisture, temperature, and light intensity. The Arduino Uno board is used as the main microcontroller, along with a Wi-Fi module to connect to the internet. The system collects sensor data and uploads it to GitHub using the GitHub API, allowing users to remotely monitor the plant's conditions.
+## Usage
+
+1. Modify the Wi-Fi credentials in the sketch (`ssid` and `password`) to match your network.
+2. Customize the monitoring intervals and thresholds in the sketch if desired.
+3. Save the changes and upload the sketch to the Arduino Uno board.
+4. Power up the circuit and wait for the Arduino to connect to your Wi-Fi network.
+5. The Arduino will start collecting sensor data and uploading it to GitHub using the GitHub API.
+6. You can access the data on GitHub by visiting the repository URL.
+
 
 
 
