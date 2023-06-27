@@ -1,3 +1,5 @@
+
+[![Banner](https://giphy.com/explore/github)]
 # Hello, I'm ABINAYA.G!
 
 Welcome to my GitHub profile. I'm passionate student and active learner. Here you'll find some of my personal projects,courses, and more.
