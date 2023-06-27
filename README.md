@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm passionate student and active learner. Here yo
 
 - 🎓 I'm currently pursuing a degree in Electronics and communication engineering.
 - 🌱 I'm eager to learn and explore new technologies and concepts.
-- 💻 I enjoy coding in C,Python,HTML,CSS,JAVASCRIPT.
+- 💻 I enjoy coding in C,Python,HTML,CS.ANGULAR JS.
 - 📚 I'm interested in the area of networking.
 - 📫 How to reach me:Linkedin ID : https://www.linkedin.com/in/abinaya-ganesan-3340a4246 .
   
